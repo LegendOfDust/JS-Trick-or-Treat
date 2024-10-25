@@ -1,6 +1,7 @@
 generateCandy = () => {
     console.log("make a candy");
     let randomIndex = Math.floor((Math.random() * 2) + 1);
+    //ran out of time
 
 }
 
